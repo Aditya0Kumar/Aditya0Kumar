@@ -20,39 +20,32 @@ I am a backend-focused software engineer passionate about designing scalable sys
 ### 🛠️ Ram Mobile (Freelance - Production System)
 > Production-grade MERN e-commerce + repair platform (real business use)
 
-- Role-based system (Customer, Technician, Admin)
-- 9-stage repair tracking pipeline
-- Real-time chat & notifications (Socket.io)
-- JWT authentication, RBAC, rate limiting, Cloudinary integration
+Built a production-grade MERN e-commerce and repair platform with role-based access, real-time chat/notifications, secure APIs, and end-to-end workflow management.  
+🔗 [Live Link](https://ecommerce-mern-website-1.onrender.com)
 
 ---
 
 ### 📊 Trackr (Multi-Tenant Project Management System)
 > Scalable backend system for workspace-based collaboration
 
-- Multi-tenant architecture with isolated workspaces  
-- Redis caching for performance optimization  
-- BullMQ async job processing (emails, background tasks)  
-- Real-time collaboration using WebSockets  
+Built a multi-tenant system with isolated workspaces, Redis caching for performance, BullMQ-based async job processing, and real-time collaboration using WebSockets.  
+🔗 [View Repository](https://github.com/Aditya0Kumar/trackr)
 
 ---
 
 ### 🧠 ArdentDB (B-Tree Storage Engine)
 > Custom database engine with crash-safe persistence
 
-- Persistent B-Tree with O(log N) search  
-- Slotted-page storage engine  
-- LRU buffer pool for optimized I/O  
-- Write-Ahead Logging (WAL) with REDO recovery  
+Implemented a persistent B-Tree storage engine with O(log N) search, slotted-page architecture, LRU buffer pool, and WAL-based crash recovery.  
+🔗 [View Repository](https://github.com/Aditya0Kumar/ardentdb)
 
 ---
 
 ### 📈 Finance Analytics & Prediction Dashboard
 > Full-stack analytics + ML-based forecasting system
 
-- KPI tracking & transaction pipelines  
-- ML-based financial prediction module  
-- Optimized backend data flow & consistency  
+Developed a finance analytics system with KPI tracking, transaction pipelines, ML-based forecasting, and optimized backend data consistency.  
+🔗 [View Repository](https://github.com/Aditya0Kumar/Finance-Analysis-and-Prediction)
 
 ---
 
@@ -119,13 +112,6 @@ I am a backend-focused software engineer passionate about designing scalable sys
 
 ---
 
-## 📊 GitHub Stats
-
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aditya0Kumar&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya0Kumar&layout=compact&theme=tokyonight)
-
----
 
 ## 🏆 Achievements
 - Solved 500+ DSA problems  
