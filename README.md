@@ -1,17 +1,17 @@
 # Hi, I'm Aditya Kumar 👋
 
-🚀 Software Engineer (Backend-focused)  
-⚡ Building scalable systems, real-time applications & production-grade architectures  
+Software Engineer (Backend-focused)  
+Building scalable systems, real-time applications & production-grade architectures  
 
 ---
 
 ## 🧠 About Me
 I am a backend-focused software engineer passionate about designing scalable systems, solving complex engineering problems, and building production-ready applications.
 
-- 🔧 Strong in backend engineering, APIs, and system design  
-- ⚡ Experience with real-time systems & distributed architectures  
-- 🧠 Currently exploring database internals, storage engines & low-level systems  
-- 🚀 Focused on writing clean, scalable, and maintainable code  
+- Strong in backend engineering, APIs, and system design  
+- Experience with real-time systems & distributed architectures  
+- Currently exploring database internals, storage engines & low-level systems  
+- Focused on writing clean, scalable, and maintainable code  
 
 ---
 
